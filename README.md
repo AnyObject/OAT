@@ -1,6 +1,6 @@
 # OAT
 ### Description
-Open Auto Trading - A fully automatic trading platform with machine learning capabilities
+Open Automatic Trading - A fully automatic trading platform with machine learning capabilities
 
 ### Prerequisites
 MySQL: http://www.mysql.com  
