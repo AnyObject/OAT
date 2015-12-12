@@ -2,6 +2,13 @@
 ### Description
 Open Automatic Trading - A fully automatic trading platform with machine learning capabilities
 
+###Features
+  - Combinations of any trading strategies and machine learning algorithms.
+  - Capable of high frequency day trading.
+  - Historical data gathering.
+  - Simutenous trading on multiple assets and exchanges worldwide.
+  - High performance backtest and machine learning, utilising multi-core CPU power.
+  
 ### Prerequisites
 MySQL: http://www.mysql.com  
 IB TWS Software: https://www.interactivebrokers.com/en/index.php?f=14099&ns=T#tws-software  
