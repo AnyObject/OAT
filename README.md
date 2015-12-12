@@ -14,18 +14,18 @@ MySQL: http://www.mysql.com
 IB TWS Software: https://www.interactivebrokers.com/en/index.php?f=14099&ns=T#tws-software  
 
 ### Java libraries
-MySQL Connector: https://dev.mysql.com/downloads/connector/j  
+MySQL Connector: https://dev.mysql.com/downloads/connector/j/  
 Interactive Brokers API: https://www.interactivebrokers.com/en/index.php?f=5041&ns=T  
-jcommon: https://github.com/jfree/jcommon  
-jFreeChart: http://www.jfree.org/jfreechart  
-JAMA: http://math.nist.gov/javanumerics/jama  
+jcommon: https://github.com/jfree/jcommon/  
+jFreeChart: http://www.jfree.org/jfreechart/  
+JAMA: http://math.nist.gov/javanumerics/jama/  
 Weka: https://weka.wikispaces.com  
-JLIBSVM: https://www.csie.ntu.edu.tw/~cjlin/libsvm  
-guava: https://code.google.com/p/guava-libraries  
-sigar: https://github.com/hyperic/sigar
+JLIBSVM: https://www.csie.ntu.edu.tw/~cjlin/libsvm/  
+guava: https://code.google.com/p/guava-libraries/  
+sigar: https://github.com/hyperic/sigar/
 
 ### Documentation 
-Javadoc: https://www.anyobject.co.nz/oat/javadoc
+Javadoc: https://www.anyobject.co.nz/oat/javadoc/
 
 ### Donation
 If you like this project, please support us!  
