@@ -4,7 +4,7 @@ Open Auto Trading - A fully automatic trading platform with machine learning cap
 
 ### Prerequisites
 MySQL: http://www.mysql.com  
-IB TWS Platform: https://www.interactivebrokers.com
+IB TWS Software: https://www.interactivebrokers.com/en/index.php?f=14099&ns=T#tws-software  
 
 ### Java libraries
 MySQL Connector: https://dev.mysql.com/downloads/connector/j  
