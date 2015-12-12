@@ -1,6 +1,11 @@
 # OAT
 Open Auto Trading - A fully automatic trading platform with machine learning capabilities
 
+###If you like this project, support us!
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=P5EB9ST7TBQ2U&lc=NZ&item_name=AnyObject&item_number=OAT&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
+border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" /></a>
+
 ### Prerequisites:
 MySQL: http://www.mysql.com
 
