@@ -8,7 +8,7 @@ IB TWS Platform: https://www.interactivebrokers.com
 
 ### Java libraries
 MySQL Connector: https://dev.mysql.com/downloads/connector/j  
-Interactive Brokers API: https://www.interactivebrokers.com  
+Interactive Brokers API: https://www.interactivebrokers.com/en/index.php?f=5041&ns=T
 jcommon: https://github.com/jfree/jcommon  
 jFreeChart: http://www.jfree.org/jfreechart  
 JAMA: http://math.nist.gov/javanumerics/jama  
