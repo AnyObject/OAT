@@ -1,6 +1,6 @@
 # OAT
 ### Description
-Open Automatic Trading - A fully automatic trading platform with machine learning capabilities
+Open Automatic Trading - A fully automated trading platform with machine learning capabilities
 
 ###Features
   - Combinations of any trading strategies and machine learning algorithms.
