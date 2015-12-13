@@ -5,7 +5,7 @@ Open Automatic Trading - A fully automated trading platform with machine learnin
 
 ###Features
   - Combinations of any trading strategies and machine learning algorithms.
-  - Capable of high frequency day trading, trading by tick or volume.
+  - Capable of high frequency day trading, by seconds, ticks or volumes.
   - Historical data gathering.
   - Simultaneous trading on multiple assets and exchanges worldwide.
   - High performance backtest and machine learning, utilising multi-core CPU power.
