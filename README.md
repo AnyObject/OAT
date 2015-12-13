@@ -8,7 +8,7 @@ Open Automatic Trading - A fully automated trading platform with machine learnin
   - Combinations of any trading strategies and machine learning algorithms.
   - Capable of high frequency day trading.
   - Historical data gathering.
-  - Simutenous trading on multiple assets and exchanges worldwide.
+  - Simultaneous trading on multiple assets and exchanges worldwide.
   - High performance backtest and machine learning, utilising multi-core CPU power.
   
 ### Prerequisites
@@ -30,6 +30,6 @@ sigar: https://github.com/hyperic/sigar/
 Javadoc: https://www.anyobject.co.nz/oat/javadoc/
 
 ### Donation
-If you like this project, please support us!  
+Please support us if you find this project useful. Many thanks!  
 
 [![PayPal - The safer, easier way to pay online!] (https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=P5EB9ST7TBQ2U&lc=NZ&item_name=Open%20Auto%20Trading%20%28OAT%29&item_number=OAT&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
