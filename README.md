@@ -10,6 +10,9 @@ Open Automatic Trading - A fully automated trading platform with machine learnin
   - Historical data gathering.
   - Simultaneous trading on multiple assets and exchanges worldwide.
   - High performance backtest and machine learning, utilising multi-core CPU power.
+
+### Screenshots
+![Screenshot](https://github.com/AnyObject/OAT/blob/master/Screenshots/327862_10150377974899284_681946766_o-2.jpg)
   
 ### Prerequisites
 Java Runtime: http://www.oracle.com/technetwork/java/javase/downloads/index.html  
