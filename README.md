@@ -12,6 +12,7 @@ Open Automatic Trading - A fully automated trading platform with machine learnin
   - High performance backtest and machine learning, utilising multi-core CPU power.
   
 ### Prerequisites
+Java Runtime: http://www.oracle.com/technetwork/java/javase/downloads/index.html  
 MySQL: http://www.mysql.com  
 IB TWS Software: https://www.interactivebrokers.com/en/index.php?f=14099&ns=T#tws-software  
 
